@@ -1,0 +1,12 @@
+{
+  "name": "my_folio",
+  "version": "1.0.0",
+  "description": "My amazing portfolio",
+  "main": "index.js",
+  "repository": "git@github.com:yhuakim/my-folio.git",
+  "author": "Yhuakim",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4"
+  }
+}
